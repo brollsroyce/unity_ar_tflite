@@ -7,8 +7,8 @@ Unity
 Unity version 2021.3.16f1 was used to create the AR+AI framework. 
 Link to Github 
 The plugins used were:
--	AR: ARFoundation
--	ML: tf-lite-unity-sample
+-	[AR: ARFoundation]([url](https://docs.unity3d.com/Packages/com.unity.xr.arfoundation@4.2/manual/index.html))
+-	[ML: tf-lite-unity-sample]([url](https://github.com/asus4/tf-lite-unity-sample))
 
 	![Framework (1)](https://github.com/brollsroyce/unity_ar_tflite/assets/50242741/7ddce113-885e-47b5-a8ed-29b76142fed4)
 The image above shows an outline of the framework created in Unity, providing anchor placement and distance measurement through 2 modes. Let’s go through all the steps:
